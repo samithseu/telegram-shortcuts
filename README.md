@@ -2,7 +2,7 @@
 
 Personal custom shortcuts for <img height="12px" src="https://api.iconify.design/logos:telegram.svg" /> Telegram Desktop which you can be change to your liking. Here are a list of the `action/keypresses` inside <a href="shortcuts-custom.json">shortcuts-custom.json</a>:
 
-<table border="1">
+<table>
   <thead>
     <tr>
       <th>Actions</th>
@@ -37,12 +37,12 @@ Personal custom shortcuts for <img height="12px" src="https://api.iconify.design
   </tbody>
 </table>
 
-If you're interested in these shortcuts as well, you can apply it to your Telegram Desktop via Installation section below ⬇️
+If you're interested in these shortcuts as well, you can apply it via Installation section below ⬇️
 
 ## Installation
 
 ### Windows
 
 ```powershell
-iwr "https://github.com/samithseu/telegram-shortcuts/raw/main/shortcuts-custom.txt" -OutFile "$ENV:APPDATA/Telegram Desktop/tdata/shortcuts-custom.json"
+iwr "https://github.com/samithseu/telegram-shortcuts/raw/main/shortcuts-custom.json" -OutFile "$ENV:APPDATA/Telegram Desktop/tdata/shortcuts-custom.json"
 ```
