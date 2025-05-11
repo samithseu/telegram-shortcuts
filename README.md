@@ -44,5 +44,5 @@ If you're interested in these shortcuts as well, you can apply it to your Telegr
 ### Windows
 
 ```powershell
-iwr "https://github.com/samithseu/telegram-shortcuts/raw/main/shortcuts-custom.json" -OutFile "$ENV:APPDATA/Telegram Desktop/tdata/shortcuts-custom.json"
+iwr "https://github.com/samithseu/telegram-shortcuts/raw/main/shortcuts-custom.txt" -OutFile "$ENV:APPDATA/Telegram Desktop/tdata/shortcuts-custom.json"
 ```
