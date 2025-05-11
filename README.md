@@ -37,7 +37,7 @@ Personal custom shortcuts for <img height="12px" src="https://api.iconify.design
   </tbody>
 </table>
 
-You can also apply these shortcuts to your Telegram Desktop via Installation section below ⬇️
+If you're interested in these shortcuts as well, you can apply it to your Telegram Desktop via Installation section below ⬇️
 
 ## Installation
 
