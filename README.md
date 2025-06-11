@@ -41,13 +41,16 @@ If you're interested in these shortcuts as well, you can apply it via Installati
 
 ## Installation
 
-> **Note**
-> Make sure to install Telegram Desktop first before applying these shortcuts.
-> Restart Telegram Desktop after applying these shortcuts.
->
-> ---
->
-> Shortcuts for linux might be different depending on your Telegram source (e.g. Flatpak, Snap, AppImage, etc.)
+> [!TIP]
+> Simply get the <a href="./shortcuts-custom.json">shortcuts-custom.json</a> file into your Telegram Desktop `/tdata` directory 😀
+
+---
+
+> [!NOTE]
+> Install Telegram Desktop first before applying these shortcuts.<br/>
+> Shortcuts for <a href="#linux">linux</a> might be different depending on your Telegram source _(e.g. Flatpak, Snap, AppImage, etc.)_
+
+---
 
 ### Windows
 
