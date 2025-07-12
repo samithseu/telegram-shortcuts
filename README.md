@@ -34,6 +34,10 @@ Personal custom shortcuts for <img height="12px" src="https://api.iconify.design
       <td>Show scheduled message of selected chat</td>
       <td><kbd>Ctrl + Alt + s</kbd></td>
     </tr>
+    <tr>
+      <td>Preview the chat</td>
+      <td><kbd>Ctrl + p</kbd></td>
+    </tr>
   </tbody>
 </table>
 
