@@ -22,5 +22,9 @@
   {
     "command": "show_scheduled",
     "keys": "ctrl+alt+s"
+  },
+  {
+    "command": "show_chat_preview",
+    "keys": "ctrl+p"
   }
 ]
