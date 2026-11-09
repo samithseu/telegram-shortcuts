@@ -43,7 +43,7 @@ Personal custom shortcuts for <img src="https://cdn.samith.dev/f/BQACAgUAAxkDAAI
       <td><kbd>ctrl + shift + alt + s</kbd></td>
     </tr>
     <tr>
-      <td>AI compose apply</td>
+      <td>AI compose apply (<a href="https://t.me/addstyle/epHqX4Z5mg2ihq3j" title="'QuickFix' AI Style"><code>QuickFix</code></a> style)</td>
       <td><kbd>ctrl + shift + a</kbd></td>
     </tr>
     <tr>
