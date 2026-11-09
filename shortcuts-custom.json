@@ -1,5 +1,9 @@
 [
   {
+    "command": "show_chat_preview",
+    "keys": "ctrl+p"
+  },
+  {
     "command": "account1",
     "keys": "ctrl+shift+1"
   },
@@ -10,6 +14,10 @@
   {
     "command": "account3",
     "keys": "ctrl+shift+3"
+  },
+  {
+    "command": "account4",
+    "keys": "ctrl+shift+4"
   },
   {
     "command": "archive_chat",
@@ -24,7 +32,19 @@
     "keys": "ctrl+alt+s"
   },
   {
-    "command": "show_chat_preview",
-    "keys": "ctrl+p"
+    "command": "stash_message",
+    "keys": "ctrl+alt+shift+s"
+  },
+  {
+    "command": null,
+    "keys": "ctrl+s"
+  },
+  {
+    "command": "ai_compose_apply",
+    "keys": "ctrl+shift+a"
+  },
+  {
+    "command": "show_rich_editor",
+    "keys": "ctrl+shift+r"
   }
 ]
